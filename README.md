@@ -3,11 +3,11 @@
 > Um aplicativo organizacional para registro e gerenciamento de tarefas diárias. 
 
 ## 📋 Índice  
-- [Sobre o Projeto](#sobre-o-projeto)  
-- [Demonstração](#demonstração)  
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)  
-- [Instalação e Uso](#instalação-e-uso)  
-- [Contato](#contato) 
+- [Sobre o Projeto](#-sobre-o-projeto)  
+- [Demonstração](#-demonstração)  
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
+- [Instalação e Uso](#-instalação-e-uso)  
+- [Contato](#-contato) 
 
 ## 💡 Sobre o Projeto  
 O **TaskMarker** foi criado com o intuito de ser uma aplicação organizacional, permitindo que os usuários registrem e gerenciem suas tarefas diárias, definindo horários de início e término para melhor controle da produtividade.  
@@ -27,6 +27,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [MySQL](https://www.mysql.com/)
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React Hook Form](https://www.react-hook-form.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Context API](https://react.dev/reference/react/useContext)
 - [TailwindCSS](https://tailwindcss.com/)
