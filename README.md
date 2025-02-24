@@ -15,6 +15,9 @@ O **TaskMarker** foi criado com o intuito de ser uma aplicação organizacional,
 ## 🚀 Demonstração  
 ![Tela de registro](/assets/registro.png)
 ![Tela de login](/assets/login.png)
+![Tela principal](/assets/tela-principal.png)
+![Criar Tarefa](/assets/criar-tarefa.png)
+![Visualizar Tarefa](/assets/visu-tarefa.png)
 
 
 ### 🔗 [Acesse a aplicação](https://taskmarker-kappa.vercel.app/)
